@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tableFood>
+    <food>
+        <id>1</id>
+        <name>Консервы рыбные</name>
+        <price>377</price>
+        <country>Россия</country>
+        <city>Петербург</city>
+    </food>
+    <food>
+        <id>2</id>
+        <name>Окорок свиной</name>
+        <price>8450</price>
+        <country>Германия</country>
+        <city>Штутгарт</city>
+    </food>
+    <food>
+        <id>3</id>
+        <name>Сахар</name>
+        <price>1889</price>
+        <country>Германия</country>
+        <city>Потсдам</city>
+    </food>
+    <food>
+        <id>4</id>
+        <name>Окорок свиной</name>
+        <price>6099</price>
+        <country>Россия</country>
+        <city>Краснодар</city>
+    </food>
+    <food>
+        <id>5</id>
+        <name>Мука пшеничная</name>
+        <price>5531</price>
+        <country>Испания</country>
+        <city>Барселона</city>
+    </food>
+</tableFood>
