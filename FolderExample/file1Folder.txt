@@ -1,0 +1,64 @@
+Microsoft Windows [Version 6.1.7601]
+(c) Корпорация Майкрософт (Microsoft Corp.), 2009. Все права защищены.
+
+c:\Program Files (x86)\emacs-24.3\bin>cd c:/
+cd c:/
+
+c:\>dir
+dir
+ Том в устройстве C не имеет метки.
+ Серийный номер тома: E4B5-2D5C
+
+ Содержимое папки c:\
+
+04.10.2013  22:29    <DIR>          83ffb2c1aaccdb252760ddbb
+15.10.2013  08:46    <DIR>          ArchEvm
+04.10.2013  02:43    <DIR>          ColladaDom
+21.09.2013  19:57    <DIR>          dbSPJ
+08.10.2013  11:45    <DIR>          education
+15.10.2013  20:48    <DIR>          Keil
+15.10.2013  10:15    <DIR>          Keil_2
+10.09.2013  18:06    <DIR>          Libraries
+18.09.2013  23:21    <DIR>          masm32
+15.10.2013  23:13    <DIR>          MinGW
+15.10.2013  21:47    <DIR>          MyFirstRepLoc
+14.07.2009  07:20    <DIR>          PerfLogs
+04.10.2013  20:24    <DIR>          Program Files
+15.10.2013  19:31    <DIR>          Program Files (x86)
+04.10.2013  10:28    <DIR>          Qt
+29.09.2013  14:39    <DIR>          Sample_databases
+28.09.2013  15:36    <DIR>          SQL Server 2000 Sample Databases
+19.09.2013  01:41    <DIR>          Sysprog
+01.10.2013  19:11    <DIR>          TEMP
+04.10.2013  20:28    <DIR>          Users
+15.10.2013  08:58    <DIR>          Windows
+               0 файлов              0 байт
+              21 папок  11 503 017 984 байт свободно
+
+c:\>cd MyFirstRepLoc/
+cd MyFirstRepLoc/
+
+c:\MyFirstRepLoc>cd MyFirstRep/
+cd MyFirstRep/
+
+c:\MyFirstRepLoc\MyFirstRep>git add file8.txt
+git add file8.txt
+
+c:\MyFirstRepLoc\MyFirstRep>git commit -m "added file8.txt"
+git commit -m "added file8.txt"
+[master 98baa3b] added file8.txt
+ 1 file changed, 1 insertion(+)
+ create mode 100644 file8.txt
+
+c:\MyFirstRepLoc\MyFirstRep>git push
+git push
+To https://github.com/efg-efg/MyFirstRep
+   f241c2f..98baa3b  master -> master
+
+c:\MyFirstRepLoc\MyFirstRep>mkdir FolderExample
+mkdir FolderExample
+
+c:\MyFirstRepLoc\MyFirstRep>cd FolderExample/
+cd FolderExample/
+
+c:\MyFirstRepLoc\MyFirstRep\FolderExample>
