@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<food id="1" >
+    <name>Мука пшеничная</name>
+    <country>Мюнхен</country>
+    <city>Германия</city>
+    <price>52</price>
+</food>
